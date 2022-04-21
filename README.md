@@ -12,21 +12,17 @@
 
 :books: Working on Bug Bounty.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: Improve my living conditions.
 
  
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)](https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)](https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)
+![MeuPefil GitHub](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraHackerSecurity&layout=compact)](https://github.com/OliveiraHackerSecurity/github-readme-stats)
 
 - Thanks for visiting.
 
 - Enjoy it!! o/
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark)
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
