@@ -7,7 +7,7 @@
 ## I'm (Vitor Oliveira)!
 
  
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/18288795/THE-TOMORROW-PEOPLE/modules/123954059">
+
 :computer: Ethical Hacker!
 
 :house_with_garden: I’m from Brazil.
@@ -16,7 +16,7 @@
 
 :outbox_tray: 2022 Goals: Improve my living conditions.
 
- 
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/18288795/THE-TOMORROW-PEOPLE/modules/123954059"> 
 
 ## About me  
 
