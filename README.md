@@ -52,7 +52,7 @@
 [![Brave Badge](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white&link=https://brave.com/)](https://brave.com/)  [![Firefox Badge](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&link=https://www.mozilla.org/en-US/firefox/new/)](https://www.mozilla.org/en-US/firefox/new/)  [![Google Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://www.google.com.br/)](https://www.google.com.br/)  [![Tor Badge](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white&link=https://www.torproject.org/)](https://www.torproject.org/)
 
 ![MeuPefil GitHub](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraHackerSecurity&layout=compact)](https://github.com/OliveiraHackerSecurity/github-readme-stats)
-[![Stats Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={OliveiraHackerSecurity}&theme=blue-green)
+![Stats Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={OliveiraHackerSecurity}&theme=blue-green)
 
 - Thanks for visiting.
 
