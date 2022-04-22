@@ -16,7 +16,7 @@
 
 :outbox_tray: 2022 Goals: Improve my living conditions.
 
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/18288795/THE-TOMORROW-PEOPLE/modules/123954059"> 
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b1b55f18288795.562c702fe9883.gif"> 
 
 ## About me  
 
