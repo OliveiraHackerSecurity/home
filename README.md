@@ -53,8 +53,6 @@
 
 ![MeuPefil GitHub](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark)
 
-- Thanks for visiting.
-
-- Enjoy it!! o/
+- Thanks for visiting o/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
