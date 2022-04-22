@@ -4,7 +4,7 @@
 
  
 
-## I'm (Vitor Oliveira)!
+## I'm (Vitor Oliveira)! ![](https://komarev.com/ghpvc/?OliveiraHackerSecurity)
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg ">
  
 
