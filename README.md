@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/10/960c3530a-2.gif?fit=1&resize=620%2C4000&ssl=1">
-<img align="right" alt="Coding" width="8000" src="https://www.behance.net/gallery/18288795/THE-TOMORROW-PEOPLE/modules/123954059">
+
 # Welcome!
 
  
@@ -7,7 +7,7 @@
 ## I'm (Vitor Oliveira)!
 
  
-
+<img align="right" alt="Coding" width="8000" src="https://www.behance.net/gallery/18288795/THE-TOMORROW-PEOPLE/modules/123954059">
 :computer: Ethical Hacker!
 
 :house_with_garden: I’m from Brazil.
@@ -59,5 +59,4 @@
 
 - Enjoy it!! o/
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
