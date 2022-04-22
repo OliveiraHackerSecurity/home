@@ -41,8 +41,6 @@
 
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=)]()  
 
-![MeuPefil GitHub](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraHackerSecurity&layout=compact)](https://github.com/OliveiraHackerSecurity/github-readme-stats)
-
 👨 Social
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=)]()  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=)]()  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)](https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/)](https://github.com/)  [![XDA_DEVBadge](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white&link=)]()  
@@ -56,6 +54,14 @@
 [![Brave Badge](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white&link=https://brave.com/)](https://brave.com/)  [![Firefox Badge](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&link=https://www.mozilla.org/en-US/firefox/new/)](https://www.mozilla.org/en-US/firefox/new/)  [![Google Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://www.google.com.br/)](https://www.google.com.br/)  [![Tor Badge](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white&link=https://www.torproject.org/)](https://www.torproject.org/)
 
 
+<div>
+<a href="https://github.com/OliveiraHackerSecurity">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?OliveiraHackerSecurity&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?OliveiraHackerSecurity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+![MeuPefil GitHub](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraHackerSecurity&layout=compact)](https://github.com/OliveiraHackerSecurity/github-readme-stats)
 
 - Thanks for visiting.
 
