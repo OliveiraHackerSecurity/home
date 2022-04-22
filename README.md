@@ -3,8 +3,8 @@
 # Welcome!
 
  
-
-## I'm (Vitor Oliveira)! ![](https://komarev.com/ghpvc/?OliveiraHackerSecurity)
+![Contador_Vizitas](https://komarev.com/ghpvc/?OliveiraHackerSecurity&color=brightgreen)
+## I'm (Vitor Oliveira)! 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg ">
  
 
