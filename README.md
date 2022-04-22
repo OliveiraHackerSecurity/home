@@ -2,8 +2,6 @@
 
 # Welcome!
 
- 
-![](https://komarev.com/ghpvc/?OliveiraHackerSecurity&label=PROFILE+VIEWS)
 ## I'm (Vitor Oliveira)! 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg ">
  
@@ -16,7 +14,7 @@
 
 :outbox_tray: 2022 Goals: Improve my living conditions.
 
- 
+![](https://komarev.com/ghpvc/?OliveiraHackerSecurity&label=PROFILE+VIEWS) 
 
 ## About me  
 
