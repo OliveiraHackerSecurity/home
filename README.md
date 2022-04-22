@@ -14,7 +14,7 @@
 
 :outbox_tray: 2022 Goals: Improve my living conditions.
 
-![](https://komarev.com/ghpvc/?OliveiraHackerSecurity&label=PROFILE+VIEWS) 
+![](https://komarev.com/ghpvc/?https://github.com/OliveiraHackerSecurity&label=PROFILE+VIEWS) 
 
 ## About me  
 
