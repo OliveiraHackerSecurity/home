@@ -63,6 +63,9 @@
 
 ![MeuPefil GitHub](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraHackerSecurity&layout=compact)](https://github.com/OliveiraHackerSecurity/github-readme-stats)
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg "> 
+
+ 
 - Thanks for visiting.
 
 - Enjoy it!! o/
