@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/10/960c3530a-2.gif?fit=1&resize=620%2C4000&ssl=1">
 
 # Welcome!
