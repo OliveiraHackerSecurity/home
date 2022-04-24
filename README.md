@@ -53,6 +53,8 @@
 
 ![MeuPefil GitHub](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark)
 
+[![estatísticas de wakatime de willianrod](https://github-readme-stats.vercel.app/api/wakatime ?username=willianrod )](https://github.com/OliveiraHackerSecurity/github-readme-stats)
+
 - Thanks for visiting o/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
