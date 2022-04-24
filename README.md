@@ -53,7 +53,7 @@
 
 ![MeuPefil GitHub](https://github-readme-stats.vercel.app/api?username=OliveiraHackerSecurity&show_icons=true&theme=dark)
 
-![estatísticas](https://github-readme-stats.vercel.app/api/wakatime?username=OliveiraHackerSecurity)](https://github.com/OliveiraHackerSecurity/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraHackerSecurity&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Thanks for visiting o/
 
